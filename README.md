@@ -1,1 +1,1 @@
-# telas
+Este projeto implica na criação de um aplicativo Android com múltiplas atividades, onde cada atividade corresponde a uma tela contendo botões para modificar o fundo e navegar entre as telas. Uma exigência específica é que o botão de retorno na primeira tela e o botão de avanço na quarta tela devem ser desabilitados.
